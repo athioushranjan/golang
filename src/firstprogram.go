@@ -1,6 +1,6 @@
 package main
 import "fmt"
 func main(){
-  //displaying the output
+  //displaying on the screen
   fmt.Printf("Hello World")
 }
